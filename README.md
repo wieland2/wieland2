@@ -17,7 +17,7 @@
 </div>
 
 
-### 📫 You can reach me at : - wagnerp5@hotmail.com
+### 📫 You can reach me at :  wagnerp5@hotmail.com
 
   Connect with me:
 
