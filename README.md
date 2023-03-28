@@ -22,5 +22,5 @@
   Connect with me:
 
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" **alt="Linkedin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="https://www.linkedin.com/in/wagnerwieland/" width="40" height="40"/>
   </div>
